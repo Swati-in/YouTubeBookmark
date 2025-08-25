@@ -12,9 +12,6 @@ A Chrome extension that lets users bookmark YouTube videos with timestamps for e
 - Chrome Extension APIs
 - HTML/CSS
 
-## Demo
-Add screenshots or GIFs here
-
 ## Installation
 1. Clone this repo
 2. Go to `chrome://extensions`
